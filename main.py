@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Request, HTTPException
-from notebooklm_py import NotebookLM
+from notebooklm import NotebookLM
 import os
 
 app = FastAPI()
