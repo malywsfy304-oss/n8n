@@ -1,3 +1,3 @@
 fastapi
 uvicorn
-notebooklm-py
+from notebooklm import NotebookLM
