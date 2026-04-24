@@ -1,6 +1,4 @@
-fastapi
-uvicorn
-playwright
-requests
-python-multipart
+
 flask
+flask-cors
+gunicorn
